@@ -1,0 +1,52 @@
+product_id,name,category,price,stock_quantity,is_active
+PROD001,Express Parcel 0.5kg,Express Delivery,4676.99,164,True
+PROD002,Express Parcel 2kg,Freight,3969.99,257,True
+PROD003,Express Parcel 5kg,Cold Chain,3937.37,193,True
+PROD004,Freight LTL 50kg,Bulk Cargo,9928.38,161,True
+PROD005,Freight LTL 100kg,Last Mile,8334.37,212,True
+PROD006,Freight FTL 500kg,Reverse Logistics,5746.1,361,True
+PROD007,Cold Chain Pharma,Cross Border,9741.31,476,True
+PROD008,Cold Chain Food,Warehousing,5067.93,472,True
+PROD009,Cold Chain Chemicals,Same Day,7802.26,127,True
+PROD010,Bulk Cement 1MT,Scheduled,3652.75,335,True
+PROD011,Bulk Steel 5MT,Express Delivery,2656.14,396,True
+PROD012,Bulk Grain 2MT,Freight,6659.98,439,True
+PROD013,Last Mile Urban,Cold Chain,1152.21,331,True
+PROD014,Last Mile Rural,Bulk Cargo,3227.54,235,True
+PROD015,Last Mile Express,Last Mile,3775.64,77,True
+PROD016,Reverse Pickup Standard,Reverse Logistics,3092.08,392,True
+PROD017,Reverse Pickup Express,Cross Border,2167.79,412,True
+PROD018,Cross Border India-UAE,Warehousing,9720.6,281,True
+PROD019,Cross Border India-US,Same Day,2870.77,94,True
+PROD020,Cross Border India-UK,Scheduled,8281.96,256,False
+PROD021,Warehouse Storage Monthly,Express Delivery,3092.39,455,True
+PROD022,Warehouse Storage Weekly,Freight,1328.66,48,True
+PROD023,Same Day Metro,Cold Chain,9671.7,450,True
+PROD024,Same Day Tier2,Bulk Cargo,6809.18,213,False
+PROD025,Scheduled Weekly,Last Mile,8084.96,197,True
+PROD026,Scheduled Bi-Weekly,Reverse Logistics,4066.83,145,True
+PROD027,Document Courier,Cross Border,4656.9,354,True
+PROD028,Fragile Items Express,Warehousing,2769.18,205,True
+PROD029,Hazardous Cargo Certified,Same Day,9414.86,65,True
+PROD030,Oversized Cargo Special,Scheduled,4820.47,327,True
+PROD031,E-commerce Fulfillment Basic,Express Delivery,5701.79,478,True
+PROD032,E-commerce Fulfillment Premium,Freight,6546.99,335,True
+PROD033,Pharmaceutical GDP Certified,Cold Chain,9112.0,164,True
+PROD034,Temperature Controlled -18C,Bulk Cargo,1343.42,33,False
+PROD035,Temperature Controlled 2-8C,Last Mile,3182.77,262,True
+PROD036,White Glove Delivery,Reverse Logistics,2501.04,285,True
+PROD037,Installation Service,Cross Border,4645.71,353,False
+PROD038,Assembly Service,Warehousing,7025.54,286,True
+PROD039,Packaging Service,Same Day,7474.24,89,True
+PROD040,Insurance Add-on Basic,Scheduled,6618.23,436,True
+PROD041,Insurance Add-on Premium,Express Delivery,4199.54,497,True
+PROD042,Track and Trace Basic,Freight,6964.75,121,True
+PROD043,Track and Trace Advanced,Cold Chain,9515.44,447,True
+PROD044,Customs Clearance Standard,Bulk Cargo,9813.09,198,True
+PROD045,Customs Clearance Express,Last Mile,9782.86,193,True
+PROD046,Air Freight Economy,Reverse Logistics,2903.64,72,False
+PROD047,Air Freight Priority,Cross Border,8277.07,56,True
+PROD048,Sea Freight 20ft Container,Warehousing,6488.7,315,False
+PROD049,Sea Freight 40ft Container,Same Day,695.67,180,True
+PROD050,Rail Freight Standard,Scheduled,1434.05,299,True
+PROD051,Drone Delivery Pilot,Express Delivery,8332.21,293,True
